@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'fiveplan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7EB917D6EB004CB0AE2C2CD08B52CDA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A375F82B886B489984584F45BA1D2369 }}
           package: .
